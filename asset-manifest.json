@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/michaeljymsgutierrez/kml-extractor/static/css/main.355c3dcd.chunk.css",
-    "main.js": "/michaeljymsgutierrez/kml-extractor/static/js/main.2c86c1be.chunk.js",
-    "main.js.map": "/michaeljymsgutierrez/kml-extractor/static/js/main.2c86c1be.chunk.js.map",
-    "runtime-main.js": "/michaeljymsgutierrez/kml-extractor/static/js/runtime-main.49eed12c.js",
-    "runtime-main.js.map": "/michaeljymsgutierrez/kml-extractor/static/js/runtime-main.49eed12c.js.map",
-    "static/js/2.3e5689c6.chunk.js": "/michaeljymsgutierrez/kml-extractor/static/js/2.3e5689c6.chunk.js",
-    "static/js/2.3e5689c6.chunk.js.map": "/michaeljymsgutierrez/kml-extractor/static/js/2.3e5689c6.chunk.js.map",
-    "index.html": "/michaeljymsgutierrez/kml-extractor/index.html",
-    "precache-manifest.b48055e9474afd9b6cb4f117a41817e7.js": "/michaeljymsgutierrez/kml-extractor/precache-manifest.b48055e9474afd9b6cb4f117a41817e7.js",
-    "service-worker.js": "/michaeljymsgutierrez/kml-extractor/service-worker.js",
-    "static/css/main.355c3dcd.chunk.css.map": "/michaeljymsgutierrez/kml-extractor/static/css/main.355c3dcd.chunk.css.map",
-    "static/js/2.3e5689c6.chunk.js.LICENSE.txt": "/michaeljymsgutierrez/kml-extractor/static/js/2.3e5689c6.chunk.js.LICENSE.txt"
+    "main.css": "/kml-extractor/static/css/main.355c3dcd.chunk.css",
+    "main.js": "/kml-extractor/static/js/main.2ff56792.chunk.js",
+    "main.js.map": "/kml-extractor/static/js/main.2ff56792.chunk.js.map",
+    "runtime-main.js": "/kml-extractor/static/js/runtime-main.807790da.js",
+    "runtime-main.js.map": "/kml-extractor/static/js/runtime-main.807790da.js.map",
+    "static/js/2.3e5689c6.chunk.js": "/kml-extractor/static/js/2.3e5689c6.chunk.js",
+    "static/js/2.3e5689c6.chunk.js.map": "/kml-extractor/static/js/2.3e5689c6.chunk.js.map",
+    "index.html": "/kml-extractor/index.html",
+    "precache-manifest.92415f791b4a8c69cd1db4f0fa16ea9b.js": "/kml-extractor/precache-manifest.92415f791b4a8c69cd1db4f0fa16ea9b.js",
+    "service-worker.js": "/kml-extractor/service-worker.js",
+    "static/css/main.355c3dcd.chunk.css.map": "/kml-extractor/static/css/main.355c3dcd.chunk.css.map",
+    "static/js/2.3e5689c6.chunk.js.LICENSE.txt": "/kml-extractor/static/js/2.3e5689c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.49eed12c.js",
+    "static/js/runtime-main.807790da.js",
     "static/js/2.3e5689c6.chunk.js",
     "static/css/main.355c3dcd.chunk.css",
-    "static/js/main.2c86c1be.chunk.js"
+    "static/js/main.2ff56792.chunk.js"
   ]
 }
